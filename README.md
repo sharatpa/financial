@@ -8,3 +8,7 @@ Here you will find projects related to finance and the stock market. The two thi
 My end goal would be to build a completely automated trading strategy for swing trading.
 
 The Wikipedia page on portfolio optimization is a good starting point (https://en.wikipedia.org/wiki/Portfolio_optimization) to understand what this is about. Essentially, we want to maximize expected return while minimizing financial risk.
+
+## Links
+
+1. https://www.investopedia.com/terms/a/algorithmictrading.asp
