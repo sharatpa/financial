@@ -13,3 +13,4 @@ The Wikipedia page on portfolio optimization is a good starting point (https://e
 
 1. https://www.investopedia.com/terms/a/algorithmictrading.asp
 2. https://www.utradealgos.com/blog/how-to-get-started-with-algo-trading-a-step-by-step-guide
+3. https://algo-trading.readthedocs.io/en/latest/introduction.html
