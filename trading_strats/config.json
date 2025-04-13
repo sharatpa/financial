@@ -1,3 +1,5 @@
-"ltcg": 0.15,
-"stcg": 0.2,
-"min_horizon": 180
+{
+    "ltcg": 0.125,
+    "stcg": 0.2,
+    "min_horizon": 180
+}
